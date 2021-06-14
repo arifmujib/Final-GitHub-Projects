@@ -2,3 +2,4 @@
 NYC 311 Calls Data Analysis/input/311_Service_Requests_from_2010_to_Present_min.csv
 NYC 311 Calls Data Analysis/input/nyc_pluto_18v1.zip
 *.py
+*.model
